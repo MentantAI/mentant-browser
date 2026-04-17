@@ -12,11 +12,11 @@ import (
 
 	"github.com/chromedp/cdproto/cdp"
 	"github.com/chromedp/chromedp"
-	"github.com/exec-io/mentant-browser/internal/actions"
-	"github.com/exec-io/mentant-browser/internal/chrome"
-	"github.com/exec-io/mentant-browser/internal/screenshot"
-	"github.com/exec-io/mentant-browser/internal/snapshot"
-	"github.com/exec-io/mentant-browser/internal/text"
+	"github.com/MentantAI/mentant-browser/internal/actions"
+	"github.com/MentantAI/mentant-browser/internal/chrome"
+	"github.com/MentantAI/mentant-browser/internal/screenshot"
+	"github.com/MentantAI/mentant-browser/internal/snapshot"
+	"github.com/MentantAI/mentant-browser/internal/text"
 )
 
 // Server is the HTTP control server for mentant-browser.

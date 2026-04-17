@@ -1,4 +1,4 @@
-module github.com/exec-io/mentant-browser
+module github.com/MentantAI/mentant-browser
 
 go 1.26
 

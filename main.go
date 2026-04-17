@@ -8,8 +8,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/exec-io/mentant-browser/internal/chrome"
-	"github.com/exec-io/mentant-browser/internal/server"
+	"github.com/MentantAI/mentant-browser/internal/chrome"
+	"github.com/MentantAI/mentant-browser/internal/server"
 )
 
 var version = "dev"
